@@ -28,4 +28,6 @@ To run the site locally:
 ```bash
 cd portfolio
 hugo server
+```
 
+Then visit: http://localhost:1313
